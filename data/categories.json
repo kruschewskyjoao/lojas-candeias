@@ -1,0 +1,6 @@
+[
+  { "id": "moda", "name": "Moda e Acessórios", "Icon": "FashionIcon" },
+  { "id": "gastronomia", "name": "Gastronomia", "Icon": "RestaurantIcon" },
+  { "id": "beleza", "name": "Beleza e Estética", "Icon": "BeautyIcon" },
+  { "id": "servicos", "name": "Serviços Locais", "Icon": "ServicesIcon" }
+]

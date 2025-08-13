@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Boutique Caboto", "category": "Moda Feminina", "imageUrl": "https://picsum.photos/400/300?random=1", "verified": true },
+  { "id": 2, "name": "Barbearia Navalha de Ouro", "category": "Barbearia", "imageUrl": "https://picsum.photos/400/300?random=2", "verified": true },
+  { "id": 3, "name": "Sabor da Terra", "category": "Restaurante", "imageUrl": "https://picsum.photos/400/300?random=3", "verified": false },
+  { "id": 4, "name": "Técnico Delivery", "category": "Serviços", "imageUrl": "https://picsum.photos/400/300?random=4", "verified": true }
+]
